@@ -66,11 +66,11 @@
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+👨‍💻 Review my projects at https://github.com/ndakalajulius?tab=projects
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **juliusndakala35@gmail.com**
 
 <br />
 
@@ -147,7 +147,7 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/ndakalajulius" alt="julius" /></p>
 
 <!-- END -->
 
